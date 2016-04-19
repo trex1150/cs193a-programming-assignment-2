@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    
+    <string-array name="todo_list">
+        <item>Eat breakfast</item>
+        <item>Shower</item>
+        <item>Attend "History of Architecture"</item>
+        <item>Attend "CS107"</item>
+        <item>Eat Lunch</item>
+        <item>Attend CS 193A</item>
+        <item>Practice</item>
+        <item>Eat dinner</item>
+        <item>Tutoring</item>
+        <item>Homework</item>
+    </string-array>
+</resources>
+
+
